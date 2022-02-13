@@ -4,19 +4,16 @@
   "description": "",
   "scripts": {
     "start:dev": "nodemon app.js", 
-    "start": "node app.js"  
-    
+    "start": "node app.js" 
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.14.7",
-    "webpack-cli": "^4.9.2"
+    "nodemon": "^1.14.7"
   },
   "dependencies": {
     "express": "^4.17.2",
-    "morgan": "^1.10.0",
-    "webpack": "^5.68.0"
+    "morgan": "^1.10.0"
   }
 }
